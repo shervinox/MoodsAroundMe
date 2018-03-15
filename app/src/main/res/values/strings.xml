@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moods Around Me</string>
+    <string name="addNewBuddy">Add New Buddy</string>
+    <string name="addButtonInDialog">Add</string>
+</resources>
